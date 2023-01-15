@@ -8,22 +8,13 @@
 
 <p align="center">
   <a href="https://cheeselad.github.io/">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="CheeseLad's Portfolio Website" height="30" width="30">
+    <img src="https://cdn-icons-png.flaticon.com/512/6840/6840478.png" alt="CheeseLad's Portfolio Website" height="30" width="30">
   </a>
 
   <a href="https://www.linkedin.com/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="CheeseLad's LinkedIn Profile" height="30" width="30">
   </a>
 </p>
-
-<br>
-
-<h2 align="center">Statistical Data</h2>
-
-<p align="center"><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=cheeselad&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="cheeselad" 
-    bg_color=#808080/></p>
 
 <br>
 
@@ -36,6 +27,11 @@
 <h4 align="center">Profile Statistics</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=CheeseLad&show_icons=true&theme=synthwave" alt="CheeseLad's Profile Statistics" /></p>
+
+<p align="center"><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=cheeselad&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="cheeselad" 
+    bg_color=#808080/></p>
 
 
 <!---

@@ -1,4 +1,4 @@
-<h2 align="center">Welcome :bar_chart:</h2>
+<h2 align="center">Welcome</h2>
 
 - 👋 Hi, I’m @CheeseLad
 - 👀 I’m interested in all things computing
@@ -16,13 +16,13 @@
 
 <br>
 
-<h2 align="center">Github stats :bar_chart:</h2>
+<h2 align="center">Github Statistics :bar_chart:</h2>
 
-<h4 align="center">Visitor's count :eyes:</h4>
+<h4 align="center">Total Visitors</h4>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{CheeseLad}/count.svg" alt="CheeseLad :: Visitor's Count" /></p>
 
-<h4 align="center">Profile stats :musical_keyboard:</h4>
+<h4 align="center">Profile Statistics</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=CheeseLad&show_icons=true&theme=synthwave" alt="CheeseLad :: Profile Stats" /></p>
 

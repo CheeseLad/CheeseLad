@@ -3,6 +3,7 @@
 - 👋 Hi, I’m @CheeseLad
 - 👀 I’m interested in all things computing
 - 🌱 I’m currently studying <b>Computer Science</b>
+- 🔨 Currently learning Python, HTML & CSS
 
 <h2 align="center">Contact Me</h2>
 

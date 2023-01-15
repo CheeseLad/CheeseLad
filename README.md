@@ -3,12 +3,23 @@
 - 👋 Hi, I’m @CheeseLad
 - 👀 I’m interested in all things computing
 - 🌱 I’m currently studying <b>Computer Science</b>
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+
+<h2 align="center">Contact Me</h2>
+
+<p align="center">
+  <a href="https://cheeselad.github.io/">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="CheeseLad's Portfolio Website" height="30" width="30">
+  </a>
+
+  <a href="https://www.linkedin.com/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="CheeseLad's LinkedIn Profile" height="30" width="30">
+  </a>
+</p>
 
 <br>
 
-<h3>Statistical Data :-</h3>
+<h2 align="center">Statistical Data :bar_chart:</h2>
+
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=cheeselad&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="cheeselad" 

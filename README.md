@@ -30,7 +30,7 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=CheeseLad&show_icons=true&theme=dark" alt="CheeseLad's Profile Statistics" align="center" /></p>
 
 <p align="center"><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=cheeselad&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=cheeselad&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact&theme=dark"
     alt="cheeselad" 
     bg_color=#808080/></p>
 

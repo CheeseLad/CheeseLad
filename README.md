@@ -27,7 +27,7 @@
 
 <h4 align="center">Profile Statistics</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=CheeseLad&show_icons=true" alt="CheeseLad's Profile Statistics" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=CheeseLad&show_icons=true&theme=synthwave" alt="CheeseLad's Profile Statistics" /></p>
 
 <p align="center"><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=cheeselad&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"

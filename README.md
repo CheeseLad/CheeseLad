@@ -9,8 +9,8 @@
 ## Tech Stack
 
 <p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png alt="stack" width="44" height="44""/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png alt="stack" width="44" height="44""/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="stack" width="44" height="44"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="stack" width="44" height="44"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="stack" width="44" height="44"/> </a> 
     <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://img.icons8.com/color/452/c-programming.png" alt="stack" width="44" height="44"/> </a>
     <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"> <img src="https://bashlogo.com/img/symbol/png/full_colored_light.png" alt="stack" width="44" height="44"/> </a>

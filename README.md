@@ -18,20 +18,6 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="stack" width="44" height="44"/> </a> 
 </p>
 
-## Get in Touch
-
-<p align="left"> 
-  <a href="https://cheeselad.github.io/">
-    <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/7916049/internet-icon-md.png" alt="CheeseLad's Portfolio Website" height="44" width="44">
-  </a> <a href="https://www.linkedin.com/">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="CheeseLad's LinkedIn Profile" height="44" width="44">
-  </a>   <a href="https://www.instagram.com/">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="CheeseLad's Instagram Profile" height="44" width="44">
-  </a><a href="https://www.discord.com/">
-    <img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" alt="CheeseLad's Discord Profile" height="44" width="44">
-  </a>
-</p>
-
 ## Github Statistics
 
 <h4 align="center">Total Visitors</h4>

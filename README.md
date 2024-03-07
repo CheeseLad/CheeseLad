@@ -8,7 +8,7 @@
 
 ## Tech Stack
 
-<p align="left"> 
+<p align="center"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="stack" width="44" height="44"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png" alt="stack" width="44" height="44"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png" alt="stack" width="44" height="44"/> </a> 

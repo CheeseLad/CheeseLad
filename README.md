@@ -1,9 +1,13 @@
 ## Welcome
 
-- 👋 Hi, I’m @CheeseLad
-- 👀 I’m interested in all things computing
-- 🌱 I’m currently studying <b>Computer Science</b>
-- 🔨 Currently learning Python, Shell, HTML & CSS
+Hi there! My name is CheeseLad and I am a computer science student who is passionate about all things coding and technology!
+
+## Current Experience
+- Computer Science @ DCU
+- Chairperson @redbrick
+- Webmaster @DCUMPS
+- Webmaster @DCU-Fotosoc
+- Software Engineer @DCU-Solar-Racing 
 
 
 ## Programming & Markup Languages

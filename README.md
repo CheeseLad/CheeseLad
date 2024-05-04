@@ -1,6 +1,6 @@
 ## Welcome
 
-Hi there! My name is CheeseLad and I am a computer science student who is passionate about all things coding and technology!
+Hi there! My name is Jake Farrell (CheeseLad) and I am a computer science student who is passionate about all things coding and technology!
 
 ## Current Experience
 - Computer Science @ <a href="https://dcu.ie">DCU</a> - Dublin City University

@@ -3,11 +3,12 @@
 Hi there! My name is CheeseLad and I am a computer science student who is passionate about all things coding and technology!
 
 ## Current Experience
-- Computer Science @ DCU
-- Chairperson @redbrick
-- Webmaster @DCUMPS
-- Webmaster @DCU-Fotosoc
-- Software Engineer @DCU-Solar-Racing 
+- Computer Science @ <a href="https://dcu.ie">DCU</a> - Dublin City University
+- Chairperson @ <a href="https://redbrick.dcu.ie">Redbrick</a> - DCU's Computer Networking Society
+- Webmaster @ <a href="https://dcumps.ie">DCUMPS</a> - DCU's Media Production Society
+- Webmaster @ <a href="https://thecollegeview.ie">The College View</a> - DCU's Independent Student Newspaper
+- Webmaster @ <a href="https://www.instagram.com/dcufotosoc">DCU Fotosoc</a>
+- Software Engineer @ <a href="https://solarracing.ie">DCU Solar Racing</a>
 
 
 ## Programming & Markup Languages

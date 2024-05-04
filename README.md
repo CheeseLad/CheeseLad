@@ -10,7 +10,16 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,bootstrap,c,css,html,java,js,md,mysql,py,r,sqlite,svelte,tailwind,ubuntu,vscode,windows,wordpress" />
+    <img src="https://skillicons.dev/icons?i=bash,c,css,html,java,js,md,mysql,py,r,sqlite" />
+  </a>
+</p>
+
+
+## Frameworks
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,react,svelte,tailwind,materialui,wordpress" />
   </a>
 </p>
 
@@ -18,7 +27,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cloudflare,debian,docker,django,firebase,flask,git,github,githubactions,gitlab,linux,materialui,nginx,npm,obsidian,react,raspberrypi" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,docker,django,firebase,flask,git,githubactions,linux,nginx,npm,obsidian,vscode" />
   </a>
 </p>
 

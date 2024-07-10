@@ -8,7 +8,7 @@ Hi there! My name is Jake Farrell (CheeseLad) and I am a computer science studen
 - Webmaster @ <a href="https://dcumps.ie">DCU MPS</a> - DCU's Media Production Society
 - Webmaster @ <a href="https://thecollegeview.ie">The College View</a> - DCU's Independent Student Newspaper
 - Webmaster @ <a href="https://dcufotosoc.jakefarrell.ie">DCU Fotosoc</a> - DCU's Photography Society
-- Software Engineer @ <a href="https://solarracing.ie">DCU Solar Racing</a> DCU Solar Racing - Charging Ahead
+- Software Engineer @ <a href="https://solarracing.ie">DCU Solar Racing</a> - DCU Solar Racing - Charging Ahead
 
 
 ## Programming & Markup Languages

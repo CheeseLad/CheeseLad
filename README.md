@@ -15,7 +15,7 @@ Hi there! My name is Jake Farrell (CheeseLad) and I am a computer science studen
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bash,c,css,html,java,js,md,mysql,py,r,sqlite" />
+    <img src="https://skillicons.dev/icons?i=bash,c,css,html,java,js,md,mysql,py,r" />
   </a>
 </p>
 
@@ -24,7 +24,7 @@ Hi there! My name is Jake Farrell (CheeseLad) and I am a computer science studen
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,react,svelte,tailwind,materialui,wordpress,django,flask" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,react,svelte,tailwind,materialui,wordpress,django,flask,firebase" />
   </a>
 </p>
 

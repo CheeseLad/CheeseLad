@@ -3,6 +3,7 @@
 Hi there! My name is Jake Farrell (CheeseLad) and I am a computer science student who is passionate about all things coding and technology!
 
 ## Current Experience
+- Software Development Engineer Intern @ <a href="https://workday.com">Workday</a>
 - Computer Science @ <a href="https://dcu.ie">DCU</a> - Dublin City University
 - Chairperson @ <a href="https://redbrick.dcu.ie">Redbrick</a> - DCU's Computer Networking Society
 - Webmaster @ <a href="https://dcumps.ie">DCU MPS</a> - DCU's Media Production Society
